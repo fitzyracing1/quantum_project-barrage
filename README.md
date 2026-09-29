@@ -1,2 +1,5 @@
 # quantum_project-barrage
-Barrage plain-language clone of fitzyracing1/quantum_project
+
+Barrage clone of [fitzyracing1/quantum_project](https://github.com/fitzyracing1/quantum_project).
+
+Read [listing.barrage](listing.barrage).
